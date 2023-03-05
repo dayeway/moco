@@ -20,7 +20,7 @@ More details in [Release Notes](moco-doc/ReleaseNotes.md)
 * Join Moco [mailing list](https://groups.google.com/forum/#!forum/moco-stub) to discuss.
 
 ## Why
-Integration, especially based on HTTP protocol, e.g. web service, REST etc, is wildly used in most of our development.
+Integration, especially based on HTTP protocol, e.g. web service, REST etc, is wildly used in most of our development！
 
 In the old days, we just deployed another WAR to an application server, e.g. Jetty or Tomcat etc. As we all know, it's so boring to develop a WAR and deploy it to any application server, even if we use an embeded server. And the WAR needs to be reassembled even if we just want to change a little bit.
 
